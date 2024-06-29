@@ -3,7 +3,7 @@ from discord.ext import commands
 import discord
 
 
-bot_token = 'MTIyMzc0NjQyMDQ1NzA3ODkzNQ.G8YvLu.qDCwytDSC9lsQzBSurZw8D2Adnds_ihGgfc9bA'
+bot_token = 'bot_token'
 channel_id = 1223750722164883596
 admins = []
 with open('admins.txt', 'r') as a:
